@@ -1,0 +1,55 @@
+
+
+.moussa{
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    align-items: center;
+    background-color: sandybrown;
+    border-radius: 30px;
+
+}
+
+.liste-items{
+    flex: 1;
+text-align: center;
+}
+
+.items{
+    display: inline-block;
+    margin: 10px;
+}
+
+.items .text{
+    text-decoration: none;
+ margin: 29px;
+}
+
+.vou span{
+    text-decoration: underline;
+    font-weight:  30px;
+}
+
+.imag{
+    width: 5%;
+    border-radius: 50px;
+}
+
+.vou{
+    margin: 20px;
+}
+
+.vou .xou{
+    width: 90%;
+
+}
+
+em{
+    font-weight: 12px;
+    font-size: 19px;
+}
+
+.fa-solid {
+    margin-right: 7px;
+    }
+    
